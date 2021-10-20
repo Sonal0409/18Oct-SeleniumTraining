@@ -12,6 +12,12 @@ public class CreateEmail extends Base {
 	{
 		System.out.println("Compose email");
 	}
+	
+	public static void OpenBrowser()
+	{
+		System.out.println("Open the browser");
+		System.out.println("Open the app URL");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
